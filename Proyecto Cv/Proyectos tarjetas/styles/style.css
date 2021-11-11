@@ -1,0 +1,90 @@
+body{
+
+    margin: 0%; 
+  }
+
+h5{
+
+    background-color: hsla(169, 76%, 46%, 1);
+    width: 950;
+    height: 38px;
+   margin-top:0px;
+   font-size: 15px;
+   margin-left: 25px;
+   margin-bottom: 0px;
+}
+
+h6
+{
+    background-color:hsla(202, 100%, 31%, 1);
+     margin-bottom: 0px;
+    height: 101px;
+    font-size: 40px;
+    top: 0px;
+    margin-left: 25px;
+    margin-top: 0px;
+}
+
+#batman1{
+    width: 300px;
+    height: 500px;
+    background-color:hsla(0, 0%, 95%, 1);
+
+    margin-top: 50px;
+    margin-left: 55px;
+    border-color: darkgoldenrod;
+    border-width: 5px;
+    float: left;
+    
+    
+}
+
+#prueba img{
+    border-radius: 50px;
+}
+#prueba{
+    position: relative;
+    left: 90px;
+    bottom: 90px;
+    
+}
+#corazon{
+    position: relative;
+    right: 0px;
+    bottom: 300px;
+    padding: 5px;
+}
+h3{
+    position: relative;
+    bottom: 135px;
+    left: 100px;
+}
+ p {
+    position: relative;
+    bottom: 150px;
+}
+#cajam{
+    width: 1024px;
+}
+p{
+    text-align: center;
+    padding: 5px;
+}
+
+footer{
+    height: 51px;
+    background-color:hsla(202, 100%, 31%, 1);
+
+    position: relative;
+  top: 650px;
+  margin-left: 15px; }
+
+  h4{
+      color: white;
+
+  }
+  #footer1 {
+      position: relative;
+      right: 900px;
+      top: 10px;
+  }

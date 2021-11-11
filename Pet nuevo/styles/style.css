@@ -1,0 +1,63 @@
+body{
+    background-color:gray;
+}
+header {
+
+    height: 105px;
+    background-color: crimson;
+}
+#primerlinea{
+    height: 30px;
+    background-color:hsla(0, 0%, 13%, 1);
+
+}
+
+#segundalinea{
+    height: 75px;
+    background-color: hsla(36, 86%, 59%, 1);
+    ;
+}
+
+ul li{
+    display: inline-block;
+    position: relative;
+    bottom: 50px;
+    left: 920px;;
+}
+
+#botonera ul li{
+    height: 55px;;   
+	background-color:hsla(36, 86%, 59%, 1);
+	margin-bottom: 4px;
+	color: #ffff;
+	text-decoration: none;
+	text-align: left;
+	line-height: 90px;
+    font-weight: bold;
+    position: relative;
+    bottom: 75px;
+
+   
+}
+h2{
+    color: white;
+    font-size: small;
+    position: relative;
+    left: 200px;
+    top: 12px;
+}
+#imagenprin{
+height: 410px;
+background-color: violet;
+background-image: url(../img/veterinaria.png);
+background-repeat: no-repeat;
+}
+#parte2{
+    height: 500px;
+    background-color: wheat;
+}
+#parte2 img{
+    position: relative;
+    left: 600px;
+    top: 70px;
+}

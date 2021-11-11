@@ -1,0 +1,60 @@
+.centro{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    background-color:hsla(0, 0%, 77%, 1);
+    ;
+    color:#005677;
+    text-align: center;
+    letter-spacing: 0.35em;
+   
+}
+h2{
+    background-color:hsla(0, 0%, 77%, 1);
+    ;
+    color:#005677;
+    letter-spacing: 0.25em;
+}
+
+
+
+footer{
+    
+    background-color:hsla(197, 100%, 23%, 1);
+    ;
+    text-align: center;
+    color: beige;
+    font-weight: bold;
+}
+ul li span{
+    font-weight: bold;
+    font-style: italic;
+}
+
+ 
+
+ span 
+    font-weight: bold
+}
+.margin{
+    margin-right: 10px;
+}
+.laboral{
+    margin-bottom: 25px;
+    position: relative;
+    left: 76px;
+    line-height: 5%;
+    
+
+}
+
+}
+.fecha{
+    font-weight: bold;
+    background-color: coral;
+}
+.negra{
+    font-weight: bold;
+}
